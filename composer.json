@@ -9,6 +9,8 @@
             "email": "iuorasrazvan2003@yahoo.com"
         }
     ],
+	
+	"version":"1.0.1", 
   
 	"autoload": {
 		"psr-4": {
