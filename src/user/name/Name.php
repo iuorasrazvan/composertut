@@ -14,6 +14,7 @@
 			echo "version 1.0.2 stable version";
 			echo "version 1.0.3 beta";
 			echo "version 1.0.4 rc1";
+			echo "adding sugest";
 			
 		}
 		
