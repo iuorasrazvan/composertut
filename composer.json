@@ -21,7 +21,9 @@
 		"psr-0":{
 			"Country\\County\\":"src/tara/judet"
 		
-		}
+		},
+		
+		"classmap":["aa","bb","cc", "cc/cucu.php"]
 	
 	},
 	
