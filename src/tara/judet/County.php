@@ -1,6 +1,6 @@
 <?php 
 
-namespace Country; 
+namespace Country\County; 
 
 class County  {
 	public function __construct () {
