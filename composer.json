@@ -16,6 +16,11 @@
 			"User\\Name\\":"src/user/name"
 		
 		
+		},
+		
+		"psr-0":{
+			"Country\County":"src/tara/judet"
+		
 		}
 	
 	},
