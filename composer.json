@@ -19,7 +19,7 @@
 		},
 		
 		"psr-0":{
-			"Country\County":"src/tara/judet"
+			"Country\\County\\":"src/tara/judet"
 		
 		}
 	
